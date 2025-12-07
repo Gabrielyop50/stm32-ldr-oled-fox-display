@@ -50,14 +50,14 @@ All source code, images, and project files are included in this repository.
 
 ---
 
+### Demo
+
+A full demonstration video is available on the [Sly Fox Electronics YouTube channel.](UC24fcTqgswaZkPQFimSFBrg)
+
+---
+
 ### License
 
 - This project is under the MIT License.
 - You may modify and reuse the code freely.
-
----
-
-### Demo
-
-A full demonstration video is available on the [Sly Fox Electronics YouTube channel.](UC24fcTqgswaZkPQFimSFBrg)
 

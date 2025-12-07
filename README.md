@@ -52,8 +52,8 @@ All source code, images, and project files are included in this repository.
 
 ### License
 
-This project is under the MIT License.
-You may modify and reuse the code freely.
+- This project is under the MIT License.
+- You may modify and reuse the code freely.
 
 ---
 

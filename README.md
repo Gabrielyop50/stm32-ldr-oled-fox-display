@@ -1,5 +1,8 @@
 # MoodFox – STM32 Light-Reactive OLED Display 🦊💡
 
+![Thumbnail](https://github.com/user-attachments/assets/d2ee8640-2b9e-4089-bc59-1462e2a4f06d)
+
+
 **A simple and engaging embedded project using an STM32F100C8 microcontroller, an LDR, and a 0.96" SSD1306 OLED.
 The OLED displays different fox images depending on ambient light intensity:**
 
